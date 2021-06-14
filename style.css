@@ -1,0 +1,15 @@
+h1{
+    color:#000000;
+}
+*{
+    border:solid;
+}
+.header{
+    background-color:#764834;
+    display:flex;
+    justify-content: space-between;
+   
+}
+body{
+    background-color: #808080;
+}
